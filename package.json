@@ -1,0 +1,20 @@
+{
+  "name": "zion-front",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onedevstudio/gatsby-wordpress-graphql.git"
+  },
+  "keywords": [],
+  "author": "Fernando Moreira <nandomoreira.me@gmail.com> (https://nandomoreira.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onedevstudio/gatsby-wordpress-graphql/issues"
+  },
+  "homepage": "https://github.com/onedevstudio/gatsby-wordpress-graphql#readme"
+}

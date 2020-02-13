@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "off",
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
