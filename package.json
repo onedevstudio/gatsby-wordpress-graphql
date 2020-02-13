@@ -1,9 +1,10 @@
 {
-  "name": "zion-front",
+  "name": "gatsby-wordpress-graphql",
   "version": "0.1.0",
-  "description": "",
+  "description": "Gatsby WordPress GraphQL",
   "main": "index.js",
   "scripts": {
+    "dev": "gatsby develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/onedevstudio/gatsby-wordpress-graphql/issues"
   },
-  "homepage": "https://github.com/onedevstudio/gatsby-wordpress-graphql#readme"
+  "homepage": "https://github.com/onedevstudio/gatsby-wordpress-graphql#readme",
+  "dependencies": {
+    "gatsby": "^2.19.17",
+    "gatsby-plugin-manifest": "^2.2.41",
+    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-sharp": "^2.3.14",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1"
+  }
 }
